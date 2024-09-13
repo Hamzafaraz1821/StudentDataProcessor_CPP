@@ -1,5 +1,3 @@
-# Project Title
-
 # Student Data Processing and Analysis System in C++
 
 This project is a C++ application that reads and processes student and course data from multiple text files. The data includes student details, course details, and other related information.
