@@ -1,2 +1,46 @@
-# StudentDataProcessor_CPP
- This repository contains the source code for a C++ application developed as a second semester Object-Oriented Programming (OOP) project. The application is designed to read, process, and analyze student and course data from multiple text files.   The data includes student details, course details, and other related information. The application handles missing or null data, calculates various statistics related to the data, and writes the processed data to new text files.   The project demonstrates the use of various OOP concepts such as classes, inheritance, and encapsulation. It also showcases the use of C++ Standard Library features such as vectors and file I/O operations.   This project serves as a practical implementation of OOP principles in a real-world scenario, providing valuable insights into data processing and analysis.
+# Project Title
+
+# Student Data Processing and Analysis System in C++
+
+This project is a C++ application that reads and processes student and course data from multiple text files. The data includes student details, course details, and other related information.
+
+## Features
+
+1. Reads data from multiple text files.
+2. Processes and validates the data.
+3. Handles missing or null data.
+4. Calculates and displays various statistics related to the data.
+5. Writes processed data to new text files.
+
+## Getting Started
+
+### Prerequisites
+
+- A C++ compiler (GCC recommended)
+- An IDE (CLion 2023.3.4 recommended)
+
+### Installation
+
+1. Clone the repository or download the source code.
+2. Open the project in your IDE.
+3. Build and run the project.
+
+## Usage
+
+The application reads data from text files located in the `Data` folder. The file names are specified in the `filename` vector in the `main` function.
+
+The application processes the data and writes the output to `New.txt` and `New2.txt` files.
+
+## Contributing
+
+Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+
+## Acknowledgments
+
+- Thanks to contributors who helped in building this project.
+- Junaid Salim
+- Muhammad Taimoor
